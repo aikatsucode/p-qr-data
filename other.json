@@ -1,26 +1,22 @@
 [
   {
-    "cardId": "",
     "cardName": "プラネットスタートドレス",
-    "rarity": "Avater",
+    "versionId": "999999",
     "qr": "71236357A42F37"
   },
   {
-    "cardId": "",
     "cardName": "アイカツ！デザインマートエプロン",
-    "rarity": "Avater",
+    "versionId": "999999",
     "qr": "90b26a5858cd51"
   },
   {
-    "cardId": "",
     "cardName": "パープルワンショルドレス",
-    "rarity": "Avater",
+    "versionId": "999999",
     "qr": "92f3ea5d7cdd79"
   },
   {
-    "cardId": "",
     "cardName": "ミュージックスタッフドレス",
-    "rarity": "Avater",
+    "versionId": "999999",
     "qr": "10206316A63F17"
   }
 ]
